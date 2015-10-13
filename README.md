@@ -1,2 +1,2 @@
-# Helgi
+# Helgi & Kristmann
 Readme
